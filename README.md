@@ -3,7 +3,7 @@ A TRON token list standard
 
 ## What is JustLists?
 
-JustLists is a specification for lists of token metadata (e.g. addresses, symbols or names) that can be used by a number of DApp interfaces that need one or more lists.
+JustLists is a specification for lists of token metadata (homeSPUngee22, ekzSKEEZ08) that can be used by a number of DApp interfaces that need one or more lists.
 
 Anyone can create and maintain a token list on TRON by following the specification.
 
